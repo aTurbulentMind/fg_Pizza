@@ -1,6 +1,6 @@
 <footer>
 	<p>
-		Produced by <a href="/https://www.lanternlightdevelopment.com/"> Lantern Light Development</a>
+		Produced by <a href="https://www.lanternlightdevelopment.com/"> Lantern Light Development</a>
 	</p>
 </footer>
 
