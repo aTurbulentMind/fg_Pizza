@@ -87,6 +87,10 @@
 	}
 
 	@media only screen and (max-width: 767px) {
+		.navbar {
+			height: 3rem;
+		}
+
 		nav {
 			display: none;
 		}
@@ -98,6 +102,12 @@
 			left: 0;
 			background-color: var(--extra);
 			width: 100%;
+		}
+	}
+
+	.logo {
+		h1 {
+			font-size: var(--f_m);
 		}
 	}
 
@@ -138,8 +148,8 @@
 	}
 
 	.burger {
-		height: 42px;
-		width: 42px;
+		height: 30px;
+		width: 30px;
 		aspect-ratio: 1;
 		background-color: transparent;
 		margin-top: 1vh;
@@ -154,6 +164,7 @@
 			transform: scale(1.2);
 		}
 	}
+
 	.burger > div {
 		height: 2px;
 		width: 14px;

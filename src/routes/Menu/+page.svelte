@@ -13,8 +13,6 @@
 	<img src={TopPull} alt="background" />
 </banner>
 
-<destination>Menu</destination>
-
 <div class="grid">
 	<div class="card glass_Back">
 		<div class="card-title">Supreme</div>

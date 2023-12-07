@@ -111,14 +111,17 @@
 	</p>
 
 	<p class="text_Box">
-		<a class=" glass_Back" href="/">Let's get you a pizza!</a>
-		<a class=" glass_Back" style="margin-left: 10vw;" href="/Menu/">Check out the menu ===></a>
+		<a class=" glass_Back" href="/">Call Now</a>
+		<a class=" glass_Back" style="margin-left: 10vw;" href="/Menu/">Check out the menu!</a>
 	</p>
 </div>
 
 <!-- svelte-ignore css-unused-selector -->
 <style lang="scss">
 	@use 'style/baseCamp';
+	:global(*) {
+		box-sizing: border-box;
+	}
 
 	.hero {
 		display: flex;
@@ -128,7 +131,7 @@
 		background-attachment: fixed;
 		background-position: center;
 		background-size: cover;
-		z-index: 999;
+		z-index: 990;
 		height: 110vh;
 		width: 100vw;
 

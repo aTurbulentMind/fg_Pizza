@@ -1,6 +1,6 @@
 <footer>
 	<p>
-		Produced by <a href="/https://www.lanternlightdevelopment.com/"> Lantern Light Development</a> 2023.
+		Produced by <a href="/https://www.lanternlightdevelopment.com/"> Lantern Light Development</a>
 	</p>
 </footer>
 
@@ -13,8 +13,8 @@
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		font-size: var(--font);
-		padding: var(--pad);
+		font-size: var(--f_sm);
+		padding: var(--pad_xl);
 		gap: 5px;
 	}
 

@@ -8,8 +8,6 @@
 	<img src={TopPull} alt="background" />
 </banner>
 
-<destination>Reviews</destination>
-
 <div class="grid">
 	<div class="card glass_Back">
 		<h2 class="card-title">Noel</h2>
@@ -101,9 +99,10 @@
 
 <!-- svelte-ignore css-unused-selector -->
 <style lang="scss">
-	@media only screen and (min-width: 980px) {
-		destination {
-			display: none;
+	.grid {
+		svg {
+			width: 60%;
+			margin: 0 20%;
 		}
 	}
 </style>
