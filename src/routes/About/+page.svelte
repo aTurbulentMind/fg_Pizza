@@ -1,5 +1,5 @@
 <script>
-	import VariPull from '$lib/assets/mushingr.jpg';
+	import VariPull from '$lib/assets/mushIngr.jpg';
 	import SidePull from '$lib/assets/steamyComboPull.jpg';
 	import TopPull from '$lib/assets/Aboutim.jpg';
 </script>
