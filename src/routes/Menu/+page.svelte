@@ -1,7 +1,7 @@
 <script>
 	//images
 	import TopPull from '$lib/assets/Menim.jpg';
-	import pic_One from '$lib/assets/mushingr.jpg';
+	import pic_One from '$lib/assets/mushIngr.jpg';
 	import pic_Two from '$lib/assets/olivTom.jpg';
 	import pic_Three from '$lib/assets/pepOlivChePull.jpg';
 	import pic_Four from '$lib/assets/simplZZZA.jpg';
