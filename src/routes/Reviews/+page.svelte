@@ -100,9 +100,19 @@
 <!-- svelte-ignore css-unused-selector -->
 <style lang="scss">
 	.grid {
-		svg {
-			width: 60%;
-			margin: 0 20%;
+		.card {
+			svg {
+				width: 40%;
+				margin: -50px 30%;
+			}
+
+			.card-title {
+				font-size: var(--font);
+			}
+
+			.body {
+				font-size: var(--f_sm);
+			}
 		}
 	}
 </style>

@@ -115,8 +115,8 @@
 	</p>
 
 	<p class="text_Box">
-		<a class=" glass_Back" href="/">Call Now</a>
-		<a class=" glass_Back" style="margin-left: 10vw;" href="/Menu/">Check out the menu!</a>
+		<a class="coa glass_Back" href="/">Call Now</a>
+		<a class="coa glass_Back" style="margin-left: 10vw;" href="/Menu/">Check out the menu!</a>
 	</p>
 </div>
 
@@ -188,6 +188,12 @@
 	.img_Gap {
 		img {
 			height: 100vh;
+		}
+	}
+
+	.text_Box {
+		.coa {
+			font-size: var(--f_m);
 		}
 	}
 
